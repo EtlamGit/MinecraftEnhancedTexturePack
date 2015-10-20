@@ -128,6 +128,7 @@
 ./assets/minecraft/textures/blocks/flower_tulip_white.png
 ./assets/minecraft/textures/blocks/furnace_front_off.png
 ./assets/minecraft/textures/blocks/furnace_front_on.png
+./assets/minecraft/textures/blocks/furnace_front_on.png.mcmeta
 ./assets/minecraft/textures/blocks/furnace_side.png
 ./assets/minecraft/textures/blocks/furnace_top.png
 ./assets/minecraft/textures/blocks/glass.png
@@ -348,6 +349,7 @@
 ./assets/minecraft/textures/blocks/tnt_side.png
 ./assets/minecraft/textures/blocks/tnt_top.png
 ./assets/minecraft/textures/blocks/torch_on.png
+./assets/minecraft/textures/blocks/torch_on.png.mcmeta
 ./assets/minecraft/textures/blocks/trapdoor.png
 ./assets/minecraft/textures/blocks/trip_wire.png
 ./assets/minecraft/textures/blocks/trip_wire_source.png
