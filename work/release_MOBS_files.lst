@@ -54,6 +54,8 @@
 ./assets/minecraft/textures/entity/rabbit/white_splotched.png
 ./assets/minecraft/textures/entity/sheep/sheep.png
 ./assets/minecraft/textures/entity/sheep/sheep_fur.png
+./assets/minecraft/textures/entity/shulker/endergolem.png
+./assets/minecraft/textures/entity/shulker/spark.png
 ./assets/minecraft/textures/entity/silverfish.png
 ./assets/minecraft/textures/entity/skeleton/skeleton.png
 ./assets/minecraft/textures/entity/skeleton/wither_skeleton.png
@@ -81,3 +83,9 @@
 ./assets/minecraft/textures/entity/zombie/zombie.png
 ./assets/minecraft/textures/entity/zombie/zombie_villager.png
 ./assets/minecraft/textures/entity/zombie_pigman.png
+./assets/minecraft/textures/entity/zombie_villager/zombie_butcher.png
+./assets/minecraft/textures/entity/zombie_villager/zombie_farmer.png
+./assets/minecraft/textures/entity/zombie_villager/zombie_librarian.png
+./assets/minecraft/textures/entity/zombie_villager/zombie_priest.png
+./assets/minecraft/textures/entity/zombie_villager/zombie_smith.png
+./assets/minecraft/textures/entity/zombie_villager/zombie_villager.png
