@@ -7,7 +7,7 @@ changes, it stays more or less compatible.
 
 
 Branch 1.7
- * initial clone from original project with latest changes [2015-10-13]:
+ * initial clone from original project with latest changes (2015-10-13):
  *  added new wooden planks
  *  added Updated fish
  *  other various fixes
@@ -22,7 +22,7 @@ Branch 1.9
  * Creative Inventory GUI has a new slot (off hand item)
  * Brewing Stand GUI has a new slot (for blaze powder)
  * Clock animation was split into single images
- * Comapss animation was split into single images
+ * Compass animation was split into single images
 
 Branch 1.11
  * Mojang updated pack.mcmeta to version 3 starting with version 1.11
