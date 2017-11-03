@@ -16,6 +16,8 @@
 ./assets/minecraft/textures/blocks/bed_head_end.png
 ./assets/minecraft/textures/blocks/bed_head_side.png
 ./assets/minecraft/textures/blocks/bed_head_top.png
+./assets/minecraft/textures/blocks/bone_block_side.png
+./assets/minecraft/textures/blocks/bone_block_top.png
 ./assets/minecraft/textures/blocks/bookshelf.png
 ./assets/minecraft/textures/blocks/brewing_stand.png
 ./assets/minecraft/textures/blocks/brewing_stand_base.png
@@ -262,6 +264,8 @@
 ./assets/minecraft/textures/blocks/log_oak_top.png
 ./assets/minecraft/textures/blocks/log_spruce.png
 ./assets/minecraft/textures/blocks/log_spruce_top.png
+./assets/minecraft/textures/blocks/magma.png
+./assets/minecraft/textures/blocks/magma.png.mcmeta
 ./assets/minecraft/textures/blocks/melon_side.png
 ./assets/minecraft/textures/blocks/melon_stem_connected.png
 ./assets/minecraft/textures/blocks/melon_stem_disconnected.png
@@ -277,6 +281,7 @@
 ./assets/minecraft/textures/blocks/mycelium_top.png
 ./assets/minecraft/textures/blocks/netherrack.png
 ./assets/minecraft/textures/blocks/nether_brick.png
+./assets/minecraft/textures/blocks/nether_wart_block.png
 ./assets/minecraft/textures/blocks/nether_wart_stage_0.png
 ./assets/minecraft/textures/blocks/nether_wart_stage_1.png
 ./assets/minecraft/textures/blocks/nether_wart_stage_2.png
@@ -328,6 +333,7 @@
 ./assets/minecraft/textures/blocks/rail_golden_powered.png
 ./assets/minecraft/textures/blocks/rail_normal.png
 ./assets/minecraft/textures/blocks/rail_normal_turned.png
+./assets/minecraft/textures/blocks/red_nether_brick.png
 ./assets/minecraft/textures/blocks/redstone_block.png
 ./assets/minecraft/textures/blocks/redstone_dust_dot.png
 ./assets/minecraft/textures/blocks/redstone_dust_line0.png

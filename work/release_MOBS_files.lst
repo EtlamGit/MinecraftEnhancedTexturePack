@@ -1,6 +1,7 @@
 ./pack.png
 ./pack.mcmeta
 ./assets/minecraft/textures/entity/bat.png
+./assets/minecraft/textures/entity/bear/polarbear.png
 ./assets/minecraft/textures/entity/blaze.png
 ./assets/minecraft/textures/entity/cat/black.png
 ./assets/minecraft/textures/entity/cat/ocelot.png
@@ -58,6 +59,8 @@
 ./assets/minecraft/textures/entity/shulker/spark.png
 ./assets/minecraft/textures/entity/silverfish.png
 ./assets/minecraft/textures/entity/skeleton/skeleton.png
+./assets/minecraft/textures/entity/skeleton/stray.png
+./assets/minecraft/textures/entity/skeleton/stray_overlay.png
 ./assets/minecraft/textures/entity/skeleton/wither_skeleton.png
 ./assets/minecraft/textures/entity/slime/magmacube.png
 ./assets/minecraft/textures/entity/slime/slime.png
@@ -81,6 +84,7 @@
 ./assets/minecraft/textures/entity/wolf/wolf_collar.png
 ./assets/minecraft/textures/entity/wolf/wolf_tame.png
 ./assets/minecraft/textures/entity/zombie/zombie.png
+./assets/minecraft/textures/entity/zombie/husk.png
 ./assets/minecraft/textures/entity/zombie/zombie_villager.png
 ./assets/minecraft/textures/entity/zombie_pigman.png
 ./assets/minecraft/textures/entity/zombie_villager/zombie_butcher.png
