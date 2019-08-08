@@ -8,8 +8,8 @@ All the Copyright for the initial images is by [cferrill1](http://www.minecraftf
 
 In contrast to the original project, there is no MCPatcher support planned. All files which are not necessary for pure vanilla Minecraft support are removed.
 
-As not everybody likes all designs included in this project, the releases are split into groups like Blocks, Items and similar to allow easy selection of the desired part. With this change it is also possible to have different resolutions for the groups.
+As not everybody likes all designs included in this project, the releases are split into groups like Blocks, Items, Mobs and similar to allow easy selection of the desired part. With this change it is also possible to have different resolutions for the groups.
 
 
 ## Changes
-History of changes can be found in the [Changelog](CHANGELOG.md).
+History of changes can be found in the [Changelog](https://github.com/EtlamGit/MinecraftEnhancedTexturePack/wiki/Changelog).
