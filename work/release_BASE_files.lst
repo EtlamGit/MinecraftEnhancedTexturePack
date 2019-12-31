@@ -58,8 +58,8 @@
 ./assets/minecraft/textures/entity/chest/trapped.png
 ./assets/minecraft/textures/entity/chest/trapped_double.png
 ./assets/minecraft/textures/entity/enchanting_table_book.png
-./assets/minecraft/textures/entity/endercrystal/endercrystal.png
-./assets/minecraft/textures/entity/endercrystal/endercrystal_beam.png
+./assets/minecraft/textures/entity/end_crystal/end_crystal.png
+./assets/minecraft/textures/entity/end_crystal/end_crystal_beam.png
 ./assets/minecraft/textures/entity/end_portal.png
 ./assets/minecraft/textures/entity/experience_orb.png
 ./assets/minecraft/textures/entity/explosion.png
