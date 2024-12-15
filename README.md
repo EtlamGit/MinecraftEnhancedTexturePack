@@ -1,3 +1,6 @@
+# going ARCHIVE 2024
+This project is now officially abandonned.
+
 # Minecraft Enhanced Texture Pack
 High resolution texture pack with vanilla Minecraft style.
 
